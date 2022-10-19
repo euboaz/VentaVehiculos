@@ -1,0 +1,8 @@
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\bin\Debug\VentaVehiculos.exe.config
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\bin\Debug\VentaVehiculos.exe
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\bin\Debug\VentaVehiculos.pdb
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.csproj.AssemblyReference.cache
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.exe
+C:\Users\Eusebio\source\repos\VentaVehiculos\VentaVehiculos\obj\Debug\VentaVehiculos.pdb
